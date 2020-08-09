@@ -3,7 +3,12 @@ from string import ascii_lowercase
 
 print('H A N G M A N')
 print()
-words = ['python', 'java', 'kotlin', 'javascript']
+words = ['python', 'java', 'kotlin', 'javascript', 'html', 'css', 'ruby', 'c',
+         'sql', 'clojure', 'coffeescript', 'coq', 'crystal', 'dart', 'elixir',
+         'f', 'go', 'groovy', 'haskel', 'lean', 'lua', 'nasm', 'php', 'racket',
+         'rust', 'scala', 'shell', 'swift', 'typescript', 'agda', 'bf', 'cfml',
+         'cobol', 'elm', 'erlang', 'haxe', 'idris', 'factor', 'pascal', 'forth',
+         'fortran', 'julia', 'r', 'reason', 'solidity', 'vb']
 wins = 0
 loses = 0
 
