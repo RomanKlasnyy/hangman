@@ -4,6 +4,7 @@ A simple game of Hangman, but for programmers. Run the "hangman.py" file to star
 Too hard to play? Run the "hangman-easy.py" to get the same game, but only with popular programming languages as words. Implementations in other programming languages were created with the easy version of the game.
 
 ## Supported languages:
+- C
 - Go (1.22.0)
 - Java SE 21 (LTS)
 - Python (3.9)
